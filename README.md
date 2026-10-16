@@ -1,107 +1,196 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Faizal Imam — software developer and AI builder. Curiosity into experiments. Ideas into software." />
+  <img src="./hero-3d.gif" width="100%" alt="Faizal Imam — animated 3D cubes, orbiting particles, and a rotating introduction to my software and AI interests" />
 </p>
 
-<p align="center">
-  <a href="https://faizalimam-portfolio.vercel.app/"><strong>Explore my portfolio ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Faizalimam001?tab=repositories">Browse my code</a>
-  &nbsp; · &nbsp;
-  <a href="#03--ai-research-lab">Inside the lab</a>
-</p>
+<div align="center">
+
+### SOFTWARE DEVELOPER &nbsp; / &nbsp; AI BUILDER &nbsp; / &nbsp; EXPERIMENTER
+
+**Building useful software. Exploring intelligent systems.**
 
 <br>
 
-## 01 / About me
+<a href="https://faizalimam-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO_↗-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/Faizalimam001?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_CODE-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore my code" />
+</a>
 
-I'm **Faizal Imam**, a software developer and AI builder. I enjoy building complete applications, SaaS tools, and useful software—from the API and database to the experience someone actually uses.
+<br>
+<br>
 
-AI is where I like to experiment. I explore large language models, open-source AI, and inference, and read research papers to understand the ideas behind them. Then I try to turn those ideas into something I can run, test, and learn from.
+[About](#01--the-person-behind-the-code) &nbsp; / &nbsp;
+[Stack](#02--technology-arsenal) &nbsp; / &nbsp;
+[Research](#03--inside-the-lab) &nbsp; / &nbsp;
+[Activity](#04--building-in-public) &nbsp; / &nbsp;
+[Connect](#05--lets-connect)
 
-I'm especially curious about **RAG, AI agents, MCP, and agentic workflows**: how models retrieve information, use tools, and work together inside practical applications.
+</div>
 
-> Read the idea. Understand the trade-offs. Build a small version. Learn from what happens.
+<br>
+
+## 01 / The person behind the code
+
+I'm **Faizal Imam**. I enjoy building complete applications, SaaS tools, and software that solves practical problems.
+
+I like connecting the pieces: an idea, a backend, a database, an interface—and making them work together as something useful.
+
+My curiosity often leads me into **large language models, open-source AI, and inference**. I read AI/ML research papers to understand the ideas behind the tools, then experiment with implementations to see what happens in practice.
+
+I'm especially interested in **RAG, AI agents, MCP, and agentic workflows**: how models find information, use tools, and become part of reliable applications.
+
+> My favorite part of learning something new is reaching the point where I can build with it.
 
 <br>
 
 ## 02 / Technology arsenal
 
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="32" height="32" alt="FastAPI" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="32" height="32" alt="PostgreSQL" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" width="32" height="32" alt="GitHub" />
-</p>
+<div align="center">
+
+<br>
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42" alt="FastAPI" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" height="42" alt="PostgreSQL" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" height="42" alt="Hugging Face" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/181717/FFFFFF" width="42" height="42" alt="GitHub" />
+
+<br>
+<br>
+
+**Python · FastAPI · PostgreSQL · Hugging Face · Git · GitHub**
+
+</div>
+
+<br>
 
 | Focus | Tools & interests |
 | :--- | :--- |
 | **Programming** | Python · SQL |
-| **Backend development** | FastAPI · PostgreSQL · REST APIs |
-| **AI / LLMs** | Hugging Face · Open-source models · Inference · RAG |
-| **Agents & automation** | AI agents · MCP · Agentic workflows · Tool integration |
-| **Research & exploration** | AI/ML papers · Model architectures · Research prototypes |
+| **Backend development** | FastAPI · REST APIs · PostgreSQL |
+| **Generative AI** | Large language models · Hugging Face · Open-source models |
+| **Retrieval & context** | RAG · Embeddings · Information retrieval |
+| **Agentic systems** | AI agents · MCP · Tool integration · Automation |
+| **Research** | AI/ML papers · Model architectures · Inference experiments |
 | **Developer tools** | Git · GitHub · Exploring new tools and workflows |
 
 <br>
 
-## 03 / AI research lab
+## 03 / Inside the lab
 
-**A space for questions, experiments, and working prototypes.**
-
-### ↳ Papers → understanding
-Read AI/ML papers, unpack their assumptions, and explore why an approach works—and where it might fall short.
-
-### ↳ Models → experiments
-Experiment with open-source models, investigate architectures, and explore the trade-offs between inference speed, resource use, and output quality.
-
-### ↳ Context → useful systems
-Explore retrieval, grounding, and RAG. Try ways to give models the right information and inspect how that changes their responses.
-
-### ↳ Tools → agentic workflows
-Prototype agents and MCP integrations that connect models with tools. Explore how to make multi-step workflows useful and understandable.
-
-**The thread connecting it all:** turning research concepts into practical software, one experiment at a time.
+**Where reading becomes experimentation—and experimentation becomes software.**
 
 <br>
 
-## 04 / GitHub activity
+### ◈ Research → understanding
 
-[Repositories](https://github.com/Faizalimam001?tab=repositories) · [Contribution history](https://github.com/Faizalimam001?tab=overview) · [Public activity](https://github.com/Faizalimam001)
+Read AI/ML papers, work through unfamiliar concepts, and explore the assumptions behind an approach.
+
+*What problem does it solve? Why does it work? Where might it fail?*
+
+### ◈ Models → experiments
+
+Explore open-source models and inference. Investigate how different choices affect response quality, speed, and resource use.
+
+*What changes when I actually run it?*
+
+### ◈ Context → grounded responses
+
+Experiment with retrieval and RAG: finding relevant information, assembling useful context, and inspecting whether responses reflect the evidence.
+
+*Did the model receive the information it needed?*
+
+### ◈ Tools → agentic workflows
+
+Explore AI agents and MCP integrations that connect models to useful capabilities. Prototype workflows and inspect their decisions along the way.
+
+*Can I understand what happened—and why?*
+
+### ◈ Ideas → working applications
+
+Build small implementations, test assumptions, and carry what I learn into practical applications.
+
+*What is the smallest useful thing I can build from this idea?*
+
+<br>
+
+<div align="center">
+
+**READ &nbsp; → &nbsp; QUESTION &nbsp; → &nbsp; BUILD &nbsp; → &nbsp; OBSERVE &nbsp; → &nbsp; REFINE**
+
+<sub>Curiosity drives the questions. Implementation reveals the details.</sub>
+
+</div>
+
+<br>
+
+## 04 / Building in public
+
+Explore my code, experiments, and contribution history.
+
+**[Browse repositories ↗](https://github.com/Faizalimam001?tab=repositories)**  
+**[View contributions ↗](https://github.com/Faizalimam001?tab=overview)**
+
+<!--
+OPTIONAL LIVE STATISTICS
+
+The stats service previously reported that it could not resolve
+Faizalimam001. Confirm your exact active GitHub username before enabling.
+
+To enable, remove this comment block's opening and closing markers.
+If your username changes, update EVERY username reference in this README.
 
 <details>
-<summary><strong>Open activity cards ↗</strong></summary>
+<summary><strong>Explore GitHub statistics</strong></summary>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizalimam001&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=090d13&amp;title_color=45e8f4&amp;icon_color=45e8f4&amp;text_color=bac7d5" width="480" alt="GitHub statistics for Faizalimam001, supplied by GitHub Readme Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizalimam001&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;icon_color=22D3EE&amp;text_color=C9D1D9" width="480" alt="GitHub statistics for Faizalimam001" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizalimam001&amp;layout=compact&amp;hide_border=true&amp;bg_color=090d13&amp;title_color=45e8f4&amp;text_color=bac7d5" width="400" alt="Language breakdown of eligible repositories for Faizalimam001" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizalimam001&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9" width="400" alt="Repository language breakdown for Faizalimam001" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizalimam001&amp;bg_color=090d13&amp;color=bac7d5&amp;line=45e8f4&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="100%" alt="Recent contribution activity for Faizalimam001" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizalimam001&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=22D3EE&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" width="100%" alt="Recent contribution activity for Faizalimam001" />
+</p>
 
-<sub>Optional third-party views of GitHub data; cards may be cached or temporarily unavailable. Language proportions describe repository code, not proficiency. Direct GitHub links above remain available.</sub>
+<sub>Third-party cards may be cached or unavailable. Language proportions reflect repository code, not proficiency.</sub>
 
 </details>
 
-<!-- OPTIONAL SNAKE: After the workflow succeeds, remove this entire comment's opening and closing markers.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faizalimam001/Faizalimam001/output/github-snake.svg" width="100%" alt="Animated snake tracing Faizalimam001's GitHub contribution grid" />
-</p>
-END OPTIONAL SNAKE -->
+END OPTIONAL LIVE STATISTICS
+-->
 
 <br>
 
-## 05 / Connect
+## 05 / Let's connect
 
-Interested in software, open-source AI, or an idea worth prototyping? Let's connect.
+Always interested in conversations about useful software, open-source AI, research ideas, and experiments worth building.
 
 **[Portfolio ↗](https://faizalimam-portfolio.vercel.app/)** &nbsp; · &nbsp; **[GitHub ↗](https://github.com/Faizalimam001)**
 
-<!-- LINKEDIN: Replace YOUR_LINKEDIN_SLUG below, then uncomment the link. -->
+<!-- Replace YOUR_LINKEDIN_SLUG and uncomment the next line. -->
 <!-- **[LinkedIn ↗](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/)** -->
 
 <br>
 
-<p align="center"><sub>BUILD WITH CURIOSITY &nbsp; / &nbsp; LEARN BY MAKING</sub></p>
+---
+
+<div align="center">
+
+**Stay curious. Build something real.**
+
+<sub>SOFTWARE ENGINEERING &nbsp; / &nbsp; OPEN-SOURCE AI &nbsp; / &nbsp; RESEARCH & EXPERIMENTATION</sub>
+
+</div>
