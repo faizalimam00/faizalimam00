@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">Faizal Imam — Software developer and AI builder</title>
+<desc id="desc">A personal AI research lab. Building applications, exploring language models, experimenting with open-source AI, reading research, and turning ideas into software.</desc>
+<defs>
+<radialGradient id="halo"><stop stop-color="#06b6d4" stop-opacity=".18"/><stop offset="1" stop-color="#06090e" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge"><stop stop-color="#45e8f4"/><stop offset="1" stop-color="#45e8f4" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="500" rx="20" fill="#090d13"/>
+<rect x="1" y="1" width="1198" height="498" rx="19" fill="none" stroke="#24313c"/>
+<rect width="1200" height="500" rx="20" fill="url(#grid)"/>
+<ellipse cx="1000" cy="220" rx="340" ry="320" fill="url(#halo)"/>
+<path d="M56 1H700" stroke="url(#edge)" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<circle cx="60" cy="65" r="4" fill="#45e8f4"><animate attributeName="opacity" values="1;.3;1" dur="4s" repeatCount="indefinite"/></circle>
+<text x="76" y="70" font-family="monospace" font-size="15" letter-spacing="3" fill="#a7bdc9">SOFTWARE / AI / EXPERIMENTS</text>
+<text x="56" y="179" font-size="82" font-weight="700" letter-spacing="-4" fill="#f5f8fc">Faizal Imam<tspan fill="#45e8f4">.</tspan></text>
+<text x="59" y="229" font-size="23" fill="#bac7d5">Curiosity into experiments. Ideas into software.</text>
+<path d="M59 266H700" stroke="#26333e"/>
+<text x="59" y="318" font-family="monospace" font-size="24" fill="#45e8f4">&gt;</text>
+<text x="88" y="318" font-size="26" fill="#e2edf5" opacity="1">Building AI Applications<animate attributeName="opacity" values="1;0;0;0;0;1" keyTimes="0;0.2;0.4;0.6;0.8;1" dur="20s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="88" y="318" font-size="26" fill="#e2edf5" opacity="0">Exploring Large Language Models<animate attributeName="opacity" values="0;1;0;0;0;0" keyTimes="0;0.2;0.4;0.6;0.8;1" dur="20s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="88" y="318" font-size="26" fill="#e2edf5" opacity="0">Experimenting with Open-Source AI<animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.2;0.4;0.6;0.8;1" dur="20s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="88" y="318" font-size="26" fill="#e2edf5" opacity="0">Reading AI Research Papers<animate attributeName="opacity" values="0;0;0;1;0;0" keyTimes="0;0.2;0.4;0.6;0.8;1" dur="20s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="88" y="318" font-size="26" fill="#e2edf5" opacity="0">Turning Ideas into Working Software<animate attributeName="opacity" values="0;0;0;0;1;0" keyTimes="0;0.2;0.4;0.6;0.8;1" dur="20s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="59" y="431" font-family="monospace" font-size="14" fill="#79909f" letter-spacing="2">READ DEEPLY</text><text x="230" y="431" fill="#45e8f4">/</text><text x="259" y="431" font-family="monospace" font-size="14" fill="#79909f" letter-spacing="2">BUILD OFTEN</text><text x="430" y="431" fill="#45e8f4">/</text><text x="459" y="431" font-family="monospace" font-size="14" fill="#79909f" letter-spacing="2">STAY CURIOUS</text>
+</g>
+<g transform="translate(975 241)" fill="none">
+<circle r="130" stroke="#1b3d49"/><circle r="103" stroke="#16424e" stroke-dasharray="2 12"/>
+<ellipse rx="135" ry="49" transform="rotate(-40)" stroke="#268493" stroke-opacity=".65"/>
+<ellipse rx="135" ry="49" transform="rotate(40)" stroke="#268493" stroke-opacity=".65"/>
+<path d="M0 -64L55 -32V32L0 64L-55 32V-32Z M0 -64V0L55 32 M0 0L-55 32" stroke="#45e8f4" stroke-width="1.5"/>
+<circle r="5" fill="#d8fdff"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/><circle cx="130" r="5" fill="#45e8f4"/><circle cx="-130" r="3" fill="#45e8f4" opacity=".5"/></g>
+</g></svg>
